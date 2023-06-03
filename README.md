@@ -4,4 +4,6 @@ Criamos um código que cria uma página de login básico que verifica as credenc
 
 Tecnologias utilizadas: App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Eu tiver sim uma dificudade que foi no código Html que eu não tava conseguindo fazer com que o código amostrasse o resultado se o login está correto ou não. O erro foi que eu esqueci de colocar o 
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Eu tiver sim uma dificudade que foi no código Html que eu não tava conseguindo fazer com que o código amostrasse o resultado se o login está correto ou não. O erro foi que eu esqueci de colocar o 'if',mas depois que eu coloquei deu certo.
+
+Link do acesso do projeto: 

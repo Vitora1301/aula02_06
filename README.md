@@ -6,4 +6,6 @@ Tecnologias utilizadas: App Script
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Eu tiver sim uma dificudade que foi no código Html que eu não tava conseguindo fazer com que o código amostrasse o resultado se o login está correto ou não. O erro foi que eu esqueci de colocar o 'if',mas depois que eu coloquei deu certo.
 
-Link do acesso do projeto: 
+Link do acesso do projeto: <a href="https://script.google.com/macros/s/AKfycbwKzVytmH8lRYBcI1vw-ONlP7G1bpJPT3yCmEAlVD7NOpfzzu7H3mVm6mmTp3azfYGhew/exec">aula02/06</a>
+
+
